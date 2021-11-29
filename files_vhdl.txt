@@ -1,0 +1,6 @@
+src/NOT.vhdl
+src/OR.vhdl
+src/AND.vhdl
+src/main_structure.vhdl
+src/main_behavior.vhdl
+src/test.vhdl
